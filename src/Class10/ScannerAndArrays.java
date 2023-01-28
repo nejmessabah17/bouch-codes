@@ -10,7 +10,7 @@ public class ScannerAndArrays {
 
         int[] numbers = new int[5];
         //below code take the numbers from user
-   /*     numbers[0] = 40;
+   /*    numbers[0] = 40;
         numbers[1] = 50;
         numbers[2] = 60;
         numbers[3] = 70;
@@ -23,9 +23,9 @@ public class ScannerAndArrays {
         numbers[3] = Scanner.nextInt
         numbers[4] =Scanner.nextInt
         
+*/
 
 
-        */
 
     //below code uses a normal for loop to ask the user for numbers and store
     for (int i=0;i< numbers.length;i++) {
